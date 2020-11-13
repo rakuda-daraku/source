@@ -69,7 +69,7 @@
 
   /**
    * スライドショーアイテムclass
-   * @param {NodeList} nodelist
+   * @param {NodeList} nodeList
    */
   function SlideShowItem(nodeList) {
     this.list = nodeList ? nodeList : [];
